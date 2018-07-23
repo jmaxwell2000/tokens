@@ -29,5 +29,10 @@
     "telegram": "https://t.me/AxpireOfficial",
     "twitter": "https://twitter.com/aXpire_official",
     "youtube": ""
+  },
+  "deprecation": {
+    "new_address": "0x9af2c6B1A28D3d6BC084bd267F70e90d49741D5B",
+    "migration_type": "auto",
+    "announcement_url": "https://medium.com/@aXpire/axp-is-being-replaced-by-axpr-ca6a515fc5a5",
+    "time": "2018-07-23T14:30:00Z"
   }
-}
